@@ -209,6 +209,13 @@ img {
   border-top: 1px solid #2f2a3a;
 }
 
+/* Mobile: 375px and up */
+@media (min-width: 375px) {
+  .hero h1 {
+    font-size: 1.875rem;
+  }
+}
+
 /* Tablet: 768px and up */
 @media (min-width: 768px) {
   .site-header {
@@ -227,6 +234,7 @@ img {
   }
 }
 
+/* Desktop: 1280px and up */
 @media (min-width: 1280px) {
   .site-header,
   .hero,
