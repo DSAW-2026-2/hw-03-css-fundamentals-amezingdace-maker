@@ -1,3 +1,8 @@
+# Name
+David Gomez
+
+# Website
+https://github.com/amezingdace-maker
 # HW03 — CSS Fundamentals
 
 **Week 3 · DSAW · Universidad de La Sabana**
